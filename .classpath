@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Ravi/Selenium class/Library files/byte-buddy-1.9.12.jar"/>
+	<classpathentry kind="lib" path="E:/Ravi/Selenium class/Library files/client-combined-4.0.0-alpha-2.jar"/>
+	<classpathentry kind="lib" path="E:/Ravi/Selenium class/Library files/client-combined-4.0.0-alpha-2-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Ravi/Selenium class/Library files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Ravi/Selenium class/Library files/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Ravi/Selenium class/Library files/guava-27.1-jre.jar"/>
+	<classpathentry kind="lib" path="E:/Ravi/Selenium class/Library files/listenablefuture-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Ravi/Selenium class/Library files/okhttp-3.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/Ravi/Selenium class/Library files/okio-1.17.3.jar"/>
+	<classpathentry kind="lib" path="E:/Ravi/Selenium class/Library files/opentracing-api-0.33.0.jar"/>
+	<classpathentry kind="lib" path="E:/Ravi/Selenium class/Library files/opentracing-noop-0.33.0.jar"/>
+	<classpathentry kind="lib" path="E:/Ravi/Selenium class/Library files/opentracing-tracerresolver-0.1.7.jar"/>
+	<classpathentry kind="lib" path="E:/Ravi/Selenium class/Library files/opentracing-util-0.33.0.jar"/>
+	<classpathentry kind="lib" path="E:/Ravi/Selenium class/Library files/selenium-server-standalone-4.0.0-alpha-2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
