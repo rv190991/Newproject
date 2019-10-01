@@ -8,8 +8,8 @@ public class strpal
 	public static void main(String[] args) 
 	{
 		String str;
-		Scanner s=new Scanner(System.in);
-		str=s.nextLine();
+		Scanner s = new Scanner(System.in);
+		str = s.nextLine();
 		String rev="";
 		for(int i=str.length()-1;i>=0;i--)
 		{
@@ -24,6 +24,7 @@ public class strpal
 		{
 			System.out.println("The given string is not a Pallindrome");
 		}
+		s.close();
 	}
 
 }
