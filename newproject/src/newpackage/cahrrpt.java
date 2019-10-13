@@ -18,7 +18,8 @@ public class cahrrpt
 		System.out.println("i is repeated for : "+(str.length()-str5.length()));
 		String str6=(str.replace(" ", ""));
 		System.out.println("space is repeated for : "+(str.length()-str6.length()));
-		
+		String str7=(str.replace("e", ""));
+		System.out.println("e is repeated for : "+(str.length()-str7.length()));
 
 	}
 
